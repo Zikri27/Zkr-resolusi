@@ -3,3 +3,8 @@ Rencana belajar Zkr
 - Modern Javascript
   * ES6
 - HTML 5
+- Framework Javasript 
+ * Vue
+ + Node
+- PHP Framework
+ * Laravel
