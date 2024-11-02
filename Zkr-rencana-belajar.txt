@@ -6,5 +6,6 @@ Rencana belajar Zkr
 - Framework Javascript
  * React
  * Angular
+ * Vue
 - PHP Framework
  * Laravel
